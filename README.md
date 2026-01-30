@@ -1,4 +1,4 @@
-# Smart Health Monitoring & Efficient Data Transmission System
+# Semantic Compression for Healthcare IOT Devices
 
 An intelligent, real-time physiological monitoring system designed to process medical sensor data, detect critical health events (Falls, SPO2 drops, Bradycardia), and optimize data transmission for low-power wearable devices.
 
